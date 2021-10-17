@@ -1,6 +1,7 @@
 <h3 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Welcome to Rohit Das's profile! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
 </h3>
 
 ## I'm a Student, Developer, and Learner!!
