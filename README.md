@@ -26,7 +26,7 @@ Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLF
     <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 
   <a href="https://das2001rohit.medium.com//">
-    <img alt="Medium" title="Linkedin" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+    <img alt="Medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
 	"></a> 
 </p>
 
