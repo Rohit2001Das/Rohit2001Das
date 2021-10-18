@@ -1,4 +1,6 @@
 <h3 align="center">
+
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
@@ -23,7 +25,9 @@ Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLF
   <a href="https://www.linkedin.com/in/rohit-das-7615391a5/">
     <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 
- 
+  <a href="https://das2001rohit.medium.com//">
+    <img alt="Medium" title="Linkedin" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+	"></a> 
 </p>
 
 
@@ -32,7 +36,7 @@ Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLF
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/Rohit2001Das/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohit2001Das's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Rohit2001Das&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohit2001Das's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Rohit2001Das&theme=tokyonight_duo&hide_border=true"/>
   </a>
 </p>
 
@@ -60,6 +64,8 @@ Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLF
 <p>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Xampp" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white
+	"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 </p>
 
@@ -92,7 +98,7 @@ Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLF
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/Rohit2001Das/github-readme-stats"><img alt="Rohit2001Das's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rohit2001Das&show_icons=true&theme=tokyonight_duo" height="192px"/></a>
+    <a href="https://github.com/Rohit2001Das/github-readme-stats"><img alt="Rohit2001Das's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rohit2001Das&show_icons=true&theme=tokyonight" height="192px"/></a>
   <a href="https://github.com/Rohit2001Das/github-readme-stats"><img alt="Rohit2001Das's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit2001Das&layout=compact" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
