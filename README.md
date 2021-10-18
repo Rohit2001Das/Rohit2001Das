@@ -92,7 +92,7 @@ Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLF
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/Rohit2001Das/github-readme-stats"><img alt="Rohit2001Das's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rohit2001Das&show_icons=true&theme=tokyonight" height="192px"/></a>
+    <a href="https://github.com/Rohit2001Das/github-readme-stats"><img alt="Rohit2001Das's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rohit2001Das&show_icons=true&theme=tokyonight_duo" height="192px"/></a>
   <a href="https://github.com/Rohit2001Das/github-readme-stats"><img alt="Rohit2001Das's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit2001Das&layout=compact" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
