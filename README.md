@@ -32,7 +32,7 @@ Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLF
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/Rohit2001Das/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohit2001Das's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Rohit2001Das&theme=tokyonight_duo&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohit2001Das's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Rohit2001Das&theme=nightowl&hide_border=true"/>
   </a>
 </p>
 
