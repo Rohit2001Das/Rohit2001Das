@@ -6,13 +6,13 @@ Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLF
 
 </h3>
 
-## I'm a Student, Developer, and Learner!!
+## I'm an iOS Developer, and a Learner!!
 
-- 👀 I’m interested in iOS Development, Frontend Development.
+- 👀 I love iOS Development, Frontend Development.
 - 🌱 I’m currently learning iOS Development
 - 📫 Learning new things and lessons everyday
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 💞️ Fun Fact: From getting zero in computer to pleasure in development
+- 🥅 2022 Goals: want to be a better version of myself
+- 💞️ Fun Fact: From getting zero in computer to having fun in development
 
 <!-- Badges template - https://github.com/badges/shields -->
 ## 🙋‍♂️ Connect with me
