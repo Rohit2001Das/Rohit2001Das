@@ -8,7 +8,7 @@ Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLF
 
 ## I'm an iOS Developer, and a Learner!!
 
-- 👀 I love iOS Development, Frontend Development.
+- 👀 I love iOS Development.
 - 🌱 I’m currently learning iOS Development
 - 📫 Learning new things and lessons everyday
 - 🥅 2022 Goals: want to be a better version of myself
