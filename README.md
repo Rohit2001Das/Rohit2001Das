@@ -22,7 +22,7 @@ Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLF
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Ro11Iam?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/Rohit2001Das">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Rohit2001Das?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://www.linkedin.com/in/rohit-das-7615391a5/">
+  <a href="https://www.linkedin.com/in/rohitdas19/">
     <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 </p>
 
