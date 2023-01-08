@@ -11,7 +11,7 @@ Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLF
 - 👀 I love iOS Development.
 - 🌱 I’m currently learning iOS Development
 - 📫 Learning new things and lessons everyday
-- 🥅 2022 Goals: want to be a better version of myself
+- 🥅 2023 Goals: want to be a better version of myself
 - 💞️ Fun Fact: Nothing ,right now .
 
 <!-- Badges template - https://github.com/badges/shields -->
