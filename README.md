@@ -6,13 +6,13 @@ Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLF
 
 </h3>
 
-## I'm an iOS Developer, and a Learner!!
+## I'm a self-taught iOS Developer, and a passionate Learner!!
 
 - 👀 I love iOS Development.
 - 🌱 I’m currently learning iOS Development
 - 📫 Learning new things and lessons everyday
 - 🥅 2023 Goals: want to be a better version of myself
-- 💞️ Fun Fact: Nothing ,right now .
+
 
 <!-- Badges template - https://github.com/badges/shields -->
 ## 🙋‍♂️ Connect with me
