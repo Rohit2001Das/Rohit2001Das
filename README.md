@@ -36,7 +36,6 @@ Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLF
   </a>
 </p>
 
-## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
 
