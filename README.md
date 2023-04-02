@@ -6,7 +6,7 @@
  -->
 </h3>
 
-## Hi , I'm a self-taught iOS Developer, and a passionate Learner!!
+### Hi , I'm a self-taught iOS Developer, and a passionate Learner!!
 
 - 👀 I love iOS Development.
 - 🌱 1.5 years experience
@@ -15,7 +15,7 @@
 
 
 <!-- Badges template - https://github.com/badges/shields -->
-## 🙋‍♂️ Connect with me
+### 🙋‍♂️ Connect with me
 <p align="center">
    <a href="https://www.linkedin.com/in/rohitdas19/">
   <img src="png/social/linkedin.png" alt="linkedin" style="vertical-align:top; margin:6px 4px">
@@ -28,7 +28,7 @@
 </p>
 
 
-## 🔥 Streak stats
+### 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
@@ -38,7 +38,7 @@
 </p>
 
 
-## 👨‍💻 Programming languages
+### 👨‍💻 Programming languages
 
 <p> 
     <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
@@ -58,7 +58,7 @@
 
 
 
-## 📊 Github stats
+### 📊 Github stats
 
 <!-- https://github.com/Rohit2001Das/github-readme-stats -->
 <!-- <details>  -->
