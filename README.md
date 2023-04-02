@@ -9,7 +9,7 @@ Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLF
 ## I'm a self-taught iOS Developer, and a passionate Learner!!
 
 - 👀 I love iOS Development.
-- 🌱 I’m currently learning iOS Development
+- 🌱 1.5 years experience
 - 📫 Learning new things and lessons everyday
 - 🥅 2023 Goals: want to be a better version of myself
 
