@@ -18,10 +18,10 @@ Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLF
 ## 🙋‍♂️ Connect with me
 <p align="center">
    <a href="https://www.linkedin.com/in/rohitdas19/">
-  <img src="png/social/linkedin@2x.png" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  <img src="png/social/linkedin.png" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   
   <a href="https://twitter.com/Ro11Iam">
-    <img src="png/social/twitter@2x.png" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    <img src="png/social/twitter.png" alt="linkedin" style="vertical-align:top; margin:6px 4px">
 <!--   <a href="https://github.com/Rohit2001Das">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Rohit2001Das?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a> -->
   
