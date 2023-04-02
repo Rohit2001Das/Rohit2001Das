@@ -10,7 +10,7 @@ Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLF
 
 - 👀 I love iOS Development.
 - 🌱 1.5 years experience
-- 📫 Learning new things and lessons everyday
+- 📫 Consistently learning and improving everyday
 - 🥅 2023 Goals: want to be a better version of myself
 
 
