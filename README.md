@@ -2,11 +2,11 @@
 
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
+<!-- Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ -->
 </h3>
 
-## I'm a self-taught iOS Developer, and a passionate Learner!!
+## Hi , I'm a self-taught iOS Developer, and a passionate Learner!!
 
 - 👀 I love iOS Development.
 - 🌱 1.5 years experience
