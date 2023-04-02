@@ -39,10 +39,10 @@
 
 
 ### 👨‍💻 Programming languages
-[![My Skills](https://skillicons.dev/icons?i=swift,c,cpp,python,firebase,html,css,js,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,c,cpp,python,html,css,js,git)](https://skillicons.dev)
 
 ### :hammer_and_wrench: Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=github,figma,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,firebase,figma,postman,vscode)](https://skillicons.dev)
 
 
 
