@@ -6,7 +6,7 @@
  -->
 </h3>
 
-### Hi , I am Rohit, a self-taught iOS Developer !!
+### Hi, I am Rohit, a self-taught iOS Developer !!
 
 - 👀 I love iOS Development.
 - 🌱 1.5 years experience
