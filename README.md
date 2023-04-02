@@ -17,6 +17,8 @@ Hi , Welcome to Rohit's profile! <img src="https://media.giphy.com/media/hvRJCLF
 <!-- Badges template - https://github.com/badges/shields -->
 ## 🙋‍♂️ Connect with me
 <p align="center">
+   <a href="https://www.linkedin.com/in/rohitdas19/">
+  <img src="png/social/linkedin@2x.png" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   
   <a href="https://twitter.com/Ro11Iam">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Ro11Iam?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
