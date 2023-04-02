@@ -51,7 +51,7 @@
 
 <!-- https://github.com/Rohit2001Das/github-readme-stats -->
 <!-- <details>  -->
-<!--   <summary>💻 GitHub Profile Stats</summary> -->
+  <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/Rohit2001Das/github-readme-stats"><img alt="Rohit2001Das's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rohit2001Das&show_icons=true&theme=tokyonight" height="192px"/></a>
   <a href="https://github.com/Rohit2001Das/github-readme-stats"><img alt="Rohit2001Das's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit2001Das&layout=compact" height="192px"/></a>
