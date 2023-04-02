@@ -38,7 +38,7 @@
 </p>
 
 
-### 👨‍💻 Programming languages
+## 👨‍💻 Programming languages
 
 <p> 
     <a href="#"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
@@ -58,7 +58,7 @@
 
 
 
-# 📊 Github stats
+## 📊 Github stats
 
 <!-- https://github.com/Rohit2001Das/github-readme-stats -->
 <!-- <details>  -->
