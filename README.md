@@ -11,7 +11,7 @@
 - 👀 I love iOS Development.
 - 🌱 1 year of working experience
 - 📫 Consistently learning and improving every day
-- 🥅 2024 Goals: Starting fresh
+- 🥅 2024 Goals: Starting afresh
 
 
 <!-- Badges template - https://github.com/badges/shields -->
