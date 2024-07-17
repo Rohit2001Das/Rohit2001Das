@@ -9,7 +9,7 @@
 ### Hi, I am Rohit, a self-taught iOS Developer !!
 
 - 👀 I love iOS Development.
-- 🌱 1 year of working experience
+- 🌱 1.5 year of working experience
 - 📫 Consistently learning and improving every day
 - 🥅 2024 Goals: Starting afresh
 
