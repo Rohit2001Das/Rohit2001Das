@@ -10,8 +10,8 @@
 
 - 👀 I love iOS Development.
 - 🌱 2.5 plus years of working experience
-- 📫 Inconsistent this year
-- 🥅 2026 Goals: Starting afresh
+- 📫 Simplistic goals this year
+- 🥅 2026 Goals: Explore less and focus on boring stuffs
 
 
 <!-- Badges template - https://github.com/badges/shields -->
